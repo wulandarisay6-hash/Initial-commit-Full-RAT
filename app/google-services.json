@@ -1,0 +1,17 @@
+{
+  "project_info": {
+    "project_number": "669252018558",
+    "project_id": "remoterat-a26e4",
+    "storage_bucket": "remoterat-a26e4.firebasestorage.app"
+  },
+  "client": [{
+      "client_info": {
+        "mobilesdk_app_id": "1:669252018558:android:3ca9e1e81adf6ecf4bd32f",
+        "android_client_info": { "package_name": "com.controlrat" }
+      },
+      "oauth_client": [],
+      "api_key": [{ "current_key": "AIzaSyCu2fYk3fkgNuo_xEgmjKeqbcuuH9Ma5Bw" }],
+      "services": { "appinvite_service": { "other_platform_oauth_client": [] } }
+  }],
+  "configuration_version": "1"
+}
